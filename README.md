@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dubstein18
-- 👀 I’m interested in Making Games
-- 🌱 I’m currently learning Unity and 2 languages python and csharp
-- 💞️ I’m looking to collaborate on Game Development
+- 👀 I’m interested in Web Development and Programming
+- 🌱 I’m currently learning HTML CSS Bootstrap Python C and JavaScript
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me just email me :)
 
 <!---
